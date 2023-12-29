@@ -24,8 +24,12 @@ h1{
     background-color: lightgray;
 }
 
-.list h3{
+.list h2{
     margin-bottom: 15px;
+}
+
+.list h3{
+    margin-top: 15px;
 }
 
 .list ul{
