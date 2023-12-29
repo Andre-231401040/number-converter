@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: grey;
+    font-family: arial;
+}
+
+.container{
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.list{
+    margin-top: 30px;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+.list h3{
+    margin-bottom: 15px;
+}
+
+.list ul{
+    line-height: 30px;
+}
+
+.list ul li a{
+    text-decoration: none;
+    color: black
+}
+
+.list ul li a:hover{
+    text-decoration: underline;
+}
